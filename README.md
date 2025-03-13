@@ -1,7 +1,6 @@
 # Multithreaded Web Crawler
 
-![Screenshot 2025-03-13 002425](https://github.com/user-attachments/assets/aa35d3d7-a700-4130-bd1a-bdb7638670da)
-
+![Screenshot 2025-03-13 002418](https://github.com/user-attachments/assets/24139336-7001-4c29-be7e-19bf14512096)
 
 Primarily written in C. Extending my working simple web crawler with multithreading capability in order for large crawls (1M links). Uses a txt file that contains one url per line,
 and has HTML parsing capability. Program status is printed to the console every 2 secs detailing current active threads, num of urls extracted from file, number of
